@@ -1,0 +1,11 @@
+export { Etoile } from './Etoile.js';
+export { Lune } from './Lune.js';
+export { Soleil } from './Soleil.js';
+export { Fusee } from './Fusee.js';
+export { Terre } from './Terre.js';
+export { Drapeau } from './Drapeau.js';
+//export { Immeuble } from './Immeuble.js';
+//export { Triangle } from './Triangle.js';
+//export { Planete } from './Planete.js';
+//export { TextBox } from './TextBox.js';
+// export { Smiley } from './Smiley.js';
